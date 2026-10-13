@@ -1,0 +1,5 @@
+# Lephron Games — Fishito
+# No authorized ad sellers are configured yet.
+# Before enabling live ads, replace these comments with the exact
+# personalized app-ads.txt entry supplied by the owner's AdMob account.
+# This comment-only file does not complete AdMob publisher verification.

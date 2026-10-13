@@ -1,0 +1,15 @@
+name: Check static site
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links and release metadata
+        run: python3 scripts/check_site.py
