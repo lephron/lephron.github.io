@@ -34,7 +34,7 @@ Official instructions: https://support.google.com/admob/answer/9363762?hl=en
 
 ## Content ownership and maintenance
 
-Logo and three species PNGs are copied unchanged from Fishito's existing approved artwork. The website's policy reflects the inspected implementation on 13 October 2026, including schema-8 progress, platform authentication, protected backups, public rankings, optional consented Unity Analytics, AdMob rewarded ads where enabled, and verified store purchases where enabled. It does not assert that ads/payments are active.
+Logo and three species PNGs are copied unchanged from Fishito's existing approved artwork. The website's policy reflects the inspected implementation on 13 October 2026, including schema-8 progress, platform authentication, protected backups, public rankings, Unity Analytics with gameplay sharing on by default and a device-local opt-out, AdMob rewarded ads where enabled, and verified store purchases where enabled. It does not assert that ads/payments are active.
 
 Keep claims aligned with the release build and actual operations. Update the effective date when changing privacy practices. The owner selected a 90-day retention period for resolved support/deletion correspondence, subject to mandatory legal retention. Run that mailbox-retention process in practice. Add actual store links only once their listings exist; the homepage currently says the game is in development.
 
